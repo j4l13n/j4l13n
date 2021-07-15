@@ -43,6 +43,14 @@ A software engineer who is self-motivated and loves what has been doing for the 
 - PythonAnyWhere
 
 
+#### Other tools
+
+- **Docker** 
+- Integration testing tools such as **GitHub Actions**, **Travis CI**, ...
+- [Creately](https://creately.com) for Architecture purpose
+- **Adobe XD** for software designs
+
+
 #### Operating system
 
 - OSX

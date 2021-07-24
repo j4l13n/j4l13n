@@ -44,6 +44,13 @@ A software engineer who is self-motivated and loves what has been doing for the 
 - Heroku
 - PythonAnyWhere
 
+#### Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
+- ...
+
 
 #### Other tools
 

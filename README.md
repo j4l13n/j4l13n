@@ -24,6 +24,8 @@ A software engineer who is self-motivated and loves what has been doing for the 
 - Python
 - Dart
 - Javascript
+- Typescript
+- SQL
 
 #### Frameworks I have experience with
 
@@ -55,3 +57,4 @@ A software engineer who is self-motivated and loves what has been doing for the 
 
 - OSX
 - Linux
+- Centos 8

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 A software engineer who is self-motivated and loves what has been doing for the last 4 years. Interested in software architecture, analysis, development, and testing of web and mobile softwares. 
 
-[View my portfolio](https://julien-hirwa-karangwa.herokuapp.com)
+[View my portfolio](https://buildasoft.rw)
 
 
 #### Languages I use

@@ -24,6 +24,7 @@ A software engineer who is self-motivated and loves what has been doing for the 
 #### Languages I use
 
 - Python
+- Java
 - Dart
 - Javascript
 - Typescript
@@ -37,14 +38,7 @@ A software engineer who is self-motivated and loves what has been doing for the 
 - ReactJs
 - NextJs
 - Flutter
-
-
-#### Servers
-
-- DigitalOceans
-- AWS lambda
-- Heroku
-- PythonAnyWhere
+- Spring
 
 #### Databases
 

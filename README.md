@@ -71,7 +71,7 @@ class SoftwareEngineer:
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=j4l13n)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=j4l13n)](https://git.io/streak-stats)
 
 ---
 

@@ -67,11 +67,6 @@ class SoftwareEngineer:
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Creately](https://img.shields.io/badge/Creately-Architecture-blue?style=for-the-badge)
 
----
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=j4l13n)](https://git.io/streak-stats)
 
 ---
 

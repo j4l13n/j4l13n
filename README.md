@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.username = "j4l13n"
         self.role = "Full-Stack Software Engineer"
         self.location = "Rwanda"
-        self.experience = "4+ years"
+        self.experience = "8+ years"
         self.passion = ["Software Architecture", "Web Development", "Mobile Development"]
     
     def current_focus(self):

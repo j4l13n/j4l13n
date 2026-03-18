@@ -85,16 +85,16 @@ class SoftwareEngineer:
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://buildasoft.rw" target="_blank">
+  <a href="https://github.com/j4l13n" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/j4l13n" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/j4l13n" target="_blank">
+  <a href="https://www.linkedin.com/in/hirwa-karangwa-julien-06b13b309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:juliushirwa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
